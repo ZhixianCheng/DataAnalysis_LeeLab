@@ -1,0 +1,2 @@
+figure
+peaks(15)
